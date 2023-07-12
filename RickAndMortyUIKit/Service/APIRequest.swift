@@ -49,5 +49,9 @@ final class APIRequest {
         self.pathComponents = pathComponents
         self.queryParams = queryParams
     }
+    
+    public struct test {
+        
+    }
 
 }
